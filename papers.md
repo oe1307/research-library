@@ -379,30 +379,135 @@
 ### 12/15
 
 - [Hybrid Quantum-Classical Boson Sampling Algorithm for Molecular Vibrationally Resolved Electronic Spectroscopy with Duschinsky Rotation and Anharmonicity](https://doi.org/10.1021/acs.jpclett.2c01475)
+- [Nonlinear feedforward enabling quantum computation](https://arxiv.org/abs/2210.17120)
+- [Molecular Docking with Gaussian Boson Sampling](https://arxiv.org/abs/1902.00462)
+- [Enhanced Image Recognition Using Gaussian Boson Sampling](https://arxiv.org/abs/2506.19707)
+
+### 12/16
+
+- [Trade-offs between Quantum and Classical Resources in the Linear Combination of Unitaries](https://arxiv.org/abs/2512.06260)
+- [Quantum Error Correction for Quantum Memories](https://arxiv.org/abs/1302.3428)
+- [Boosted Bell-state measurements for photonic quantum computation](https://arxiv.org/abs/2410.16380)
+- [Hardware-efficient autonomous quantum error correction](https://arxiv.org/abs/1207.0679)
+- [Symmetries and conserved quantities in Lindblad master equations](https://arxiv.org/abs/1310.1523)
+- [Performance and structure of single-mode bosonic codes](https://doi.org/10.1103/PhysRevA.97.032346)
+- [Phase-controlled integrated photonic quantum circuits](https://doi.org/10.1364/oe.17.013516)
+- [staq -- A full-stack quantum processing toolkit](https://arxiv.org/abs/1912.06070)
 
 ### 12/17
 
 - [Bell state measurements in quantum optics: a review of recent progress and open challenges](https://arxiv.org/abs/2509.18756)
+- [Dynamically protected cat-qubits: a new paradigm for universal quantum computation](https://arxiv.org/abs/1312.2017)
+
+### 12/18
+
+- [Efficient simulation of low-entanglement bosonic Gaussian states in polynomial time](https://arxiv.org/abs/2512.10643)
+- [Simulating Gaussian boson sampling on graphs in polynomial time](https://arxiv.org/abs/2511.16558)
+- [QuGIT: a numerical toolbox for Gaussian quantum states](https://arxiv.org/abs/2201.06368)
+- [Efficient Gaussian State Preparation in Quantum Circuits](https://arxiv.org/abs/2507.20317)
+- [Gate-based quantum simulation of Gaussian bosonic circuits on exponentially many modes](https://arxiv.org/abs/2407.06290)
+- [Simulating the Dynamics of Single Photons in BosonSampling Devices with Matrix Product States](https://arxiv.org/abs/1812.06614)
+- [Variational Tensor Network Simulation of Gaussian Boson Sampling and Beyond](https://arxiv.org/abs/2410.18740)
+- [Linear Optics to Scalable Photonic Quantum Computing](https://arxiv.org/abs/2501.02513)
 
 ### 12/19
 
 - [Bell-state measurement and quantum teleportation using linear optics: two-photon pairs, entangled coherent states, and hybrid entanglement](https://arxiv.org/abs/1304.1214)
 
+### 12/23
+
+- [Hybrid continuous-discrete-variable quantum computing: a guide to utility](https://arxiv.org/abs/2511.13882)
+- [Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications](https://doi.org/10.1103/4rf7-9tfx)
+- [Quantum classical hybrid neural networks for continuous variable prediction](https://arxiv.org/abs/2212.04209)
+- [Logical channel for heralded and pure loss with the Gottesman-Kitaev-Preskill code](https://arxiv.org/abs/2504.13497)
+
+### 12/24
+
+- [Functional matrix product state simulation of continuous variable quantum circuits](https://arxiv.org/abs/2504.05860)
+
+### 12/25
+
+- [Applications and resource reductions in measurement-based variational quantum eigensolvers](https://arxiv.org/abs/2302.00795)
+
+### 12/26
+
+- [Provable Post-Training Quantization: Theoretical Analysis of OPTQ and Qronos](https://arxiv.org/abs/2508.04853)
+- [DeepQuantum: A PyTorch-based Software Platform for Quantum Machine Learning and Photonic Quantum Computing](https://arxiv.org/abs/2512.18995)
+
 ## 2026
+
+### 1/13
+
+- [Continuous-variable quantum neural networks](https://arxiv.org/abs/1806.06871)
+
+### 1/19
+
+- [Propagating Gottesman-Kitaev-Preskill states encoded in an optical oscillator](https://arxiv.org/abs/2309.02306)
 
 ### 2/2
 
 - [Low-Overhead Fault-Tolerant Quantum Error Correction with the Surface-GKP Code](https://arxiv.org/abs/2103.06994)
 - [Gaussian breeding for encoding a qubit in propagating light](https://arxiv.org/abs/2212.05436)
 - [Generation of optical Schrödinger cat states by generalized photon subtraction](https://arxiv.org/abs/2009.08580)
+- [Generation of Flying Logical Qubits using Generalized Photon Subtraction with Adaptive Gaussian Operations](https://arxiv.org/abs/2401.07287)
+- [Fault-tolerant bosonic quantum error correction with the surface-GKP code](https://arxiv.org/abs/1908.03579)
+- [The loss tolerance of cat breeding for fault-tolerant grid state generation](https://arxiv.org/abs/2508.06193)
+- [High-Rate Four Photon Subtraction from Squeezed Vacuum: Preparing Cat State for Optical Quantum Computation](https://arxiv.org/abs/2502.08952)
+
+### 2/12
+
+- [Demonstrating Quantum Error Correction that Extends the Lifetime of Quantum Information](https://arxiv.org/abs/1602.04768)
+
+### 2/20
+
+- [On the Universality of the Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1909.03123)
+- [A Grand Unification of Quantum Algorithms](https://arxiv.org/abs/2105.02859)
+
+### 2/25
+
+- [Fault-Tolerant Measurement-Based Quantum Computing with Continuous-Variable Cluster States](https://doi.org/10.1103/PhysRevLett.112.120504)
+- [Correcting finite squeezing errors in continuous-variable cluster states](https://arxiv.org/abs/1801.03488)
+- [Squeezed-vacuum bosonic codes](https://arxiv.org/abs/2511.06108)
+- [Machine Learning Enhanced Quantum State Tomography on FPGA](https://doi.org/10.1364/CLEO_AT.2025.JPS200_81)
+- [SqueezeJet: High-level Synthesis Accelerator Design for Deep Convolutional Neural Networks](https://arxiv.org/abs/1805.08695)
+- [Towards an optical FPGA - Programmable silicon photonic circuits](https://arxiv.org/abs/1807.01656)
+
+### 2/26
+
+- [Neural networks with quantum states of light](https://arxiv.org/abs/2410.17702)
+- [Continuous Variable Quantum MNIST Classifiers](https://arxiv.org/abs/2204.01194)
+- [Quantum kernels with squeezed-state encoding for machine learning](https://arxiv.org/abs/2108.11114)
+- [Gaussian states of continuous-variable quantum systems provide universal and versatile reservoir computing](https://doi.org/10.1038/s42005-021-00556-w)
+- [40 km Fiber Transmission of Squeezed Light Measured with a Real Local Oscillator](https://arxiv.org/abs/2201.10177)
+
+### 3/3
+
+- [All-optical computing with beyond 100-GHz clock rates](https://arxiv.org/abs/2501.05756)
 
 ### 3/5
 
 - [Continuous-Variable Fault-Tolerant Quantum Computation under General Noise](https://arxiv.org/abs/2410.12365)
+- [Photonic Hybrid Quantum Computing](https://doi.org/10.1016/j.newton.2025.100359)
+- [Single-Step Hybrid CV-DV Transfer of Multipartite W States Using Cat-State Qubits](https://arxiv.org/abs/2601.01078)
+- [NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes](https://arxiv.org/abs/2208.05758)
+- [Scalable Quantum Error Correction for Surface Codes using FPGA](https://doi.org/10.1109/QCE57702.2023.00106)
+
+### 3/6
+
+- [The Poisson binomial distribution -- Old & New](https://doi.org/10.1214/22-STS852)
+- [Near-perfect quantum teleportation between continuous and discrete encodings](https://arxiv.org/abs/2602.17306)
+- [No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth](https://arxiv.org/abs/2603.01628)
+
+### 3/10
+
+- [Mind the gaps: The fraught road to quantum advantage](https://arxiv.org/abs/2510.19928)
+- [Digital quantum simulation of squeezed states via enhanced bosonic encoding in a superconducting quantum processor](https://arxiv.org/abs/2505.10895)
 
 ### 3/19
 
 - [Implementing quantum algorithms on temporal photonic cluster states](https://arxiv.org/abs/1805.02645)
+- [Gaussian Boson Sampling for perfect matchings of arbitrary graphs](https://arxiv.org/abs/1712.06729)
+- [Photon-Number-Resolving Single-Photon Detector with a System Detection Efficiency of 98% and Photon-Number Resolution of 32](https://doi.org/10.1021/acsphotonics.5c00508)
 
 ### 5/26
 
