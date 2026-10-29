@@ -872,6 +872,100 @@
 - [A Dynamic Intermediate Representation for Hybrid Quantum-Classical Programs](https://arxiv.org/abs/2609.01037)
 - [Emerging Personas and Tools for Hybrid Quantum-HPC Systems](https://arxiv.org/abs/2609.01299)
 - [Efficient optical cat state generation using squeezed few-photon superposition states](https://arxiv.org/abs/2412.14798)
+- [A passive self-correcting quantum memory in three dimensions](https://arxiv.org/abs/2605.10943)
+- [CV-QAOA: Efficient Low-Depth Quantum Optimization of Continuous Variables](https://arxiv.org/abs/2610.06815)
+- [Demonstration of a Structured Agentic Workflow for Applied Quantum Computing Research](https://arxiv.org/abs/2610.05304)
+- [Composable logical gate error in approximate quantum error correction: reexamining gate implementations in Gottesman-Kitaev-Preskill codes](https://arxiv.org/abs/2509.14658)
+- [Towards quantum computing Feynman diagrams in hybrid qubit-oscillator devices](https://arxiv.org/abs/2411.05092)
+- [esQueranto: Differentiable Structured Quantum Light for Automated Scientific Discovery](https://arxiv.org/abs/2610.00750)
+- [Generation of large-amplitude squeezed cat states with near-unity efficiency](https://arxiv.org/abs/2609.39482)
+- [Optimal Fusion Strategies for Quantum Computation](https://arxiv.org/abs/2609.02559)
+- [MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline](https://arxiv.org/abs/2609.30104)
+- [Classical Neural Networks on Quantum Devices via Tensor Network Disentanglers: A Case Study in Image Classification](https://arxiv.org/abs/2509.06653)
+- [A programming language combining quantum and classical control](https://arxiv.org/abs/2511.22537)
+- [Hybrid Quantum-Classical PINNs for Scientific Computing: A Multi-GPU Open-Source Framework](https://arxiv.org/abs/2604.15645)
+- [Facial classification Using Hybrid Quantum Machine Learning](https://arxiv.org/abs/2609.31915)
+- [General Photon Subtraction from a Gaussian Perspective](https://arxiv.org/abs/2609.34803)
+- [NxM-Version Programming for Quantum Software: High-Level Components across Frameworks and Engines](https://arxiv.org/abs/2609.33255)
+- [Quantum Encoding Agents: A Natural Language Interface for Data Embedding Strategy Selection in Quantum Machine Learning](https://arxiv.org/abs/2609.31902)
+- [Compiling the 2D Fermi-Hubbard ground-state energy estimation algorithm for active volume quantum architectures](https://arxiv.org/abs/2609.05316)
+- [A Scalable, Optimized Scheduler for the Active Volume Architecture](https://arxiv.org/abs/2603.06376)
+- [Bosonic Error Correction with Fluxonium](https://arxiv.org/abs/2609.26880)
+- [Quantum Reinforcement Learning for Cost and Delay Tradeoffs in Quantum Cloud Orchestration](https://arxiv.org/abs/2609.27446)
+- [Quantum-HPC Workflows Across Multiple Quantum Computing Platforms: Two Case Studies](https://arxiv.org/abs/2609.31528)
+- [Hybrid Variational Quantum-Classical Framework with Adaptive Weighting and Efficiency Assessment](https://arxiv.org/abs/2609.28491)
+- [Resource and entanglement study of a hybrid qudit-qubit quantum algorithm for solving the integer programming problem](https://arxiv.org/abs/2609.23243)
+- [Hybrid quantum-classical attention for histopathology-based molecular profiling in data-limited cancers](https://arxiv.org/abs/2609.21115)
+- [FT-Weave: Real-Time Compilation Framework for Reconfigurable Fault-Tolerant Quantum Architectures](https://arxiv.org/abs/2609.20573)
+- [AlchemQ: Proof-Carrying Quantum Circuit Optimization with Per-Result Equivalence Certificates](https://arxiv.org/abs/2609.19160)
+- [AC/DC: Automated Compilation for Dynamic Circuits](https://arxiv.org/abs/2412.07969)
+- [Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes](https://arxiv.org/abs/2510.20890)
+- [A Platform-aware Compilation Framework for Fault-tolerant Quantum Computation](https://arxiv.org/abs/2609.08908)
+- [Classical, quantum, and general probabilistic state-discrimination profiles](https://arxiv.org/abs/2609.17920)
+- [Optical Quantum Computing](https://arxiv.org/abs/2609.18347)
+- [Fidelity-Aware Scheduling of Quantum Circuits on Multi-QPU Systems](https://arxiv.org/abs/2609.09980)
+- [OpenQARP: a modular framework for quantum application research](https://arxiv.org/abs/2609.15697)
+- [Designing a Hybrid Digital / Analog Quantum Physics Emulator as Open Hardware](https://arxiv.org/abs/2302.00821)
+- [A Hybrid Quantum-Classical Coordination Architecture for Portfolio Optimization via Global Context Injection](https://arxiv.org/abs/2609.15708)
+- [Feature-Adaptive Fusion in Hybrid Quantum-Classical Neural Networks for Robust Biomedical Image Classification](https://arxiv.org/abs/2609.15267)
+- [NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing](https://arxiv.org/abs/2609.14478)
+- [CUDA-Q Logical: Retargetable Compilation for Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2609.13388)
+- [Handling Imperfections in Subcircuit Compilation for Linear Optical Quantum Computing](https://arxiv.org/abs/2609.13379)
+- [Extremely Low-Cost Magic State Preparation toward Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2609.12698)
+- [Towards Continuous Profiling and Optimization of Quantum-Classical Pipelines](https://arxiv.org/abs/2609.05814)
+- [A Time-Frequency Framework for GKP Codes](https://arxiv.org/abs/2609.10802)
+- [Python in the front, party in the Backline: compiling quantum workloads across CPUs, GPUs, and FPGAs](https://arxiv.org/abs/2609.09270)
+- [Programmable photonic state fusion via heralded storage of asynchronously generated resources](https://arxiv.org/abs/2609.10312)
+- [Information capacity of quantum statistics: Fock-state tests of a discrete binary-sequence model on cloud photonic quantum processors](https://arxiv.org/abs/2609.10216)
+
+### 10/13
+
+- [Generalised All-Optical Cat Correction](https://arxiv.org/abs/2603.03263)
+- [Decoder- and Noise-Aware Optimization Framework for Clifford-Deformed Quantum Error-Correcting Codes](https://arxiv.org/abs/2610.13589)
+- [Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling](https://arxiv.org/abs/2601.09951)
+- [Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks](https://arxiv.org/abs/2610.12187)
+- [Photonic Chips for Universal Quantum Computing: Retrospective and Prospective](https://arxiv.org/abs/2610.11321)
+- [Retromorphic Testing of Quantum Compiler Passes](https://arxiv.org/abs/2610.11195)
+- [Evolving Hybrid Quantum-Classical Architectures for Image Classification](https://arxiv.org/abs/2610.03220)
+
+### 10/15
+
+- [Low-cost algorithm-to-execution framework for surface-code quantum computing](https://arxiv.org/abs/2609.10965)
+- [Asymptotically good bosonic Fock state codes](https://arxiv.org/abs/2603.15190)
+- [Time-Frequency Continuous-Variable Quantum Teleportation with Single Photons](https://arxiv.org/abs/2610.16198)
+
+### 10/16
+
+- [Fast simulation of bosonic qubits via Gaussian functions in phase space](https://arxiv.org/abs/2103.05530)
+- [Rare Event Simulation of Quantum Error-Correcting Circuits](https://arxiv.org/abs/2509.13678)
+- [Deterministic and Programmable Fusion for Scalable Generation of Photonic Graph States](https://arxiv.org/abs/2610.19927)
+
+### 10/19
+
+- [Alternating Squeezing and Photon Subtraction for Optical Cat-State Generation](https://arxiv.org/abs/2610.20728)
+
+### 10/21
+
+- [HybridQC: Hardware-Grounded Simulation of Tightly Integrated Hybrid Quantum-Classical Systems](https://arxiv.org/abs/2607.13352)
+- [QaiJi IR: An Eight-Layer Intermediate Representation Family for Hybrid Quantum-Classical Compilation](https://arxiv.org/abs/2609.29305)
+- [Gradient-Based Optimization Enables Scalable Fault-Tolerant Quantum Gate Synthesis](https://arxiv.org/abs/2603.25101)
+- [How Quantum Is Light? Concepts, Measures, and Applications of Optical Quantumness](https://arxiv.org/abs/2610.25894)
+
+### 10/22
+
+- [Deterministic feedforward-based generation of large optical coherent-state superposition](https://arxiv.org/abs/2603.22068)
+- [Shot Allocation Strategies in Debugging Quantum Circuits](https://arxiv.org/abs/2610.27335)
+
+### 10/26
+
+- [Nanopillar metasurfaces uniting high optical reflectivity with ultracoherent nanomechanics](https://arxiv.org/abs/2610.31452)
+- [Turning Quantum Compiler Configuration Selection Upside Down: A Top-Down Paradigm](https://arxiv.org/abs/2610.29170)
+
+### 10/27
+
+- [Constructing Large and Structured Decoherence-Free Subspaces in Hybrid Quantum Systems](https://arxiv.org/abs/2610.12348)
+- [HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks](https://arxiv.org/abs/2605.14523)
+- [The Role of Quantum in Hybrid Quantum-Classical Neural Networks: An Empirical Assessment](https://arxiv.org/abs/2601.04732)
 
 ### 10/29
 
