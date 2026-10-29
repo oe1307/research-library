@@ -153,10 +153,100 @@
 - [Building a large-scale quantum computer with continuous-variable optical technologies](https://arxiv.org/abs/2110.03247)
 - [Analysis of optical loss thresholds in the fusion-based quantum computing architecture](https://arxiv.org/abs/2403.14811)
 - [Increasing error tolerance in quantum computers with dynamic bias arrangement](https://arxiv.org/abs/2303.16122)
+- [Logical operations with a dynamical qubit in Floquet-Bacon-Shor code](https://arxiv.org/abs/2503.03867)
+- [Efficient Concatenated Bosonic Code for Additive Gaussian Noise](https://arxiv.org/abs/2102.01374)
+
+### 8/26
+
+- [Continuous variable quantum teleportation using photon subtracted and photon added two mode squeezed coherent state](https://arxiv.org/abs/2407.06037)
+- [Borrowing Dirty Qubits in Quantum Programs](https://arxiv.org/abs/2508.17190)
+- [Beating the One-half Limit of Ancilla-free Linear Optics Bell Measurements](https://arxiv.org/abs/1301.2749)
+- [The XZZX Surface Code](https://doi.org/10.1038/s41467-021-22274-1)
+- [Fault-tolerant thresholds for quantum error correction with the surface code](https://doi.org/10.1103/PhysRevA.89.022321)
+- [Optimal number of stabilizer measurement rounds in an idling surface code patch](https://arxiv.org/abs/2408.07529)
+- [Erasure-tolerance scheme for the surface codes on neutral atom quantum computers](https://arxiv.org/abs/2404.12656)
+- [Confinement-Higgs transition in a disordered gauge theory and the accuracy threshold for quantum memory](https://doi.org/10.1016/S0003-4916%2802%2900019-2)
+- [Pre-detection squeezing as a resource for high-dimensional Bell-state measurements](https://arxiv.org/abs/2412.07353)
+- [Quantum harmonic oscillator state control in a squeezed Fock basis](https://arxiv.org/abs/1612.05570)
+- [Biased Gottesman-Kitaev-Preskill repetition code](https://doi.org/10.1103/PhysRevA.108.052428)
+- [Generalized fusions of photonic quantum states using static linear optics](https://arxiv.org/abs/2410.20261)
+- [High photon-loss threshold quantum computing using GHZ-state measurements](https://arxiv.org/abs/2308.04192)
+
+### 8/27
+
+- [Fault-tolerant linear optical quantum computing with small-amplitude coherent states](https://doi.org/10.1103/PhysRevLett.100.030503)
+- [Generation of squeezed Fock states by measurement](https://doi.org/10.1103/PhysRevA.109.052428)
+- [Measurement-assisted non-Gaussian gate for Schrödinger cat states preparation: Fock resource state versus cubic phase state](https://doi.org/10.1140/epjd/s10053-023-00796-1)
+- [Heralded single-photon source based on superpositions of squeezed states](https://arxiv.org/abs/2402.17118)
+- [Breeding the optical Schrodinger's cat state](https://arxiv.org/abs/1609.08425)
+- [Encoded-Fusion-Based Quantum Computation for High Thresholds with Linear Optics](https://arxiv.org/abs/2408.01041)
+- [Switch networks for photonic fusion-based quantum computing](https://arxiv.org/abs/2109.13760)
+- [Engineering Bosonic Codes with Quantum Lattice Gates](https://doi.org/10.1038/s42005-025-02354-0)
+- [Coherent phase control of two-color continuous variable entangled light](https://arxiv.org/abs/2508.03303)
 
 ### 8/28
 
 - [Linear optical quantum computing with a hybrid squeezed cat code](https://arxiv.org/abs/2502.19778)
+- [Preparation of conditionally-squeezed states in qubit-oscillator systems](https://arxiv.org/abs/2504.01664)
+- [Teleportation of Nonclassical Wave Packets of Light](https://doi.org/10.1126/science.1201034)
+
+### 8/29
+
+- [Automated discovery of heralded ballistic graph state generators for fusion-based photonic quantum computation](https://arxiv.org/abs/2508.16505)
+- [Nondeterministic Noiseless Linear Amplification of Quantum Systems](https://arxiv.org/abs/0809.0326)
+- [Generalized quantum scissors for noiseless linear amplification](https://arxiv.org/abs/2002.12566)
+- [Tracking Quantum Error Correction](https://arxiv.org/abs/1804.04509)
+- [A note on quantum error correction with continuous variables](https://arxiv.org/abs/0811.3616)
+- [Error Correction Using Squeezed Fock States](https://arxiv.org/abs/2312.16000)
+
+### 9/2
+
+- [Quantum error correction against photon loss using multi-component cat states](https://arxiv.org/abs/1605.00357)
+- [Stabilizing a Bosonic Qubit using Colored Dissipation](https://arxiv.org/abs/2107.09198)
+- [Quantum Computing with Very Noisy Devices](https://arxiv.org/abs/quant-ph/0410199)
+
+### 9/5
+
+- [Unidirectional Cyclic Quantum Teleportation of Arbitrary Schrodinger Cat Coherent-states via Bell Coherent-States](https://arxiv.org/abs/2403.02357)
+- [Fast initialization of Bell states with Schrödinger cats in multi-mode systems](https://arxiv.org/abs/2505.02497)
+- [Fusion Blossom: Fast MWPM Decoders for QEC](https://arxiv.org/abs/2305.08307)
+- [Logical coherence in 2D compass codes](https://arxiv.org/abs/2405.09287)
+- [Error suppression in multicomponent cat codes with photon subtraction and teleamplification](https://arxiv.org/abs/2401.04439)
+- [Potential of Quantum Computing Applications for Smart Grid Digital Twins and Future Directions](https://doi.org/10.1109/ISGTMiddleEast65737.2025.11314205)
+- [Continuous-variable Quantum Diffusion Model for State Generation and Restoration](https://arxiv.org/abs/2506.19270)
+- [Non-Abelian Quantum Signal Processing: A Composite Pulse for Fast Analytic Control of Hybrid Oscillator-Qubit Processors](https://doi.org/10.1103/7jwl-k8xg)
+- [Realistic continuous-variable quantum teleportation using a displaced Fock state channel](https://arxiv.org/abs/2304.06045)
+- [Deterministic preparation of optical squeezed cat and Gottesman-Kitaev-Preskill states](https://arxiv.org/abs/2311.10510)
+- [Mechanical Squeezed-Fock Qubit: Towards Quantum Weak-Force Sensing](https://arxiv.org/abs/2507.13161)
+- [Optical Schrödinger cat states generation using cubic phase resource state and beamsplitter](https://arxiv.org/abs/2504.18372)
+- [Compass state: Effect of squeezing and displacement on the Fock space](https://arxiv.org/abs/2211.10374)
+- [Nullifiers of non-Gaussian cluster states through homodyne measurement](https://arxiv.org/abs/2505.21066)
+- [Scalable Optical Quantum State Synthesizer with Dual-Mode Resonator Memory](https://doi.org/10.1103/ztqs-q4ql)
+- [Fault-tolerant quantum computation with non-deterministic entangling gates](https://arxiv.org/abs/1708.05627)
+- [Simulation of Gaussian channels via teleportation and error correction of Gaussian states](https://doi.org/10.1103/PhysRevA.98.052335)
+
+### 9/8
+
+- [Deterministic quantum teleportation of photonic quantum bits by a hybrid technique](https://arxiv.org/abs/1402.4895)
+- [A scheme for quantum teleportation between discrete and continuous encodings of an optical qubit](https://arxiv.org/abs/1605.08649)
+- [Entanglement swapping between discrete and continuous variables](https://doi.org/10.1103/PhysRevLett.114.100501)
+- [Hybrid entanglement between optical discrete polarizations and continuous quadrature variables](https://arxiv.org/abs/2105.04602)
+- [Quantum-optical state engineering up to the two-photon level](https://doi.org/10.1038/nphoton.2010.6)
+- [Resource-efficient high-threshold fault-tolerant quantum computation with weak nonlinear optics](https://arxiv.org/abs/2412.16536)
+- [Scheme for the generation of hybrid entanglement between time-bin and wavelike encodings](https://doi.org/10.1103/PhysRevA.102.012603)
+- [On fault tolerant single-shot logical state preparation and robust long-range entanglement](https://arxiv.org/abs/2411.04405)
+- [Measurement-Based Entanglement Distillation and Constant-Rate Quantum Repeaters over Arbitrary Distances](https://arxiv.org/abs/2502.11174)
+- [Single-shot and measurement-based quantum error correction via fault complexes](https://arxiv.org/abs/2410.12963)
+- [Decoding Schemes for Foliated Sparse Quantum Error Correcting Codes](https://arxiv.org/abs/1810.11572)
+- [Foliated Quantum Codes](https://arxiv.org/abs/1607.02579)
+- [Nearly Deterministic Bell Measurement for Multiphoton Qubits and Its Application to Quantum Information Processing](https://doi.org/10.1103/PhysRevLett.114.113603)
+- [Demonstration of unconditional one-way quantum computations for continuous variables](https://arxiv.org/abs/1001.4860)
+- [Faithful quantum teleportation via a nanophotonic nonlinear Bell state analyzer](https://arxiv.org/abs/2411.15437)
+- [Quantum state fusion in photons](https://arxiv.org/abs/1209.1843)
+- [Fusion and flow: formal protocols to reliably build photonic graph states](https://arxiv.org/abs/2409.13541)
+- [The Munich Quantum Software Stack: Connecting End Users, Integrating Diverse Quantum Technologies, Accelerating HPC](https://arxiv.org/abs/2509.02674)
+- [3/4-efficient Bell measurement with passive linear optics and unentangled ancillae](https://arxiv.org/abs/1403.4841)
+- [Optimizing sparse quantum state preparation with measurement and feedforward](https://arxiv.org/abs/2508.21346)
 
 ### 12/3
 
