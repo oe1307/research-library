@@ -247,6 +247,91 @@
 - [The Munich Quantum Software Stack: Connecting End Users, Integrating Diverse Quantum Technologies, Accelerating HPC](https://arxiv.org/abs/2509.02674)
 - [3/4-efficient Bell measurement with passive linear optics and unentangled ancillae](https://arxiv.org/abs/1403.4841)
 - [Optimizing sparse quantum state preparation with measurement and feedforward](https://arxiv.org/abs/2508.21346)
+- [Extended analysis of distillation and purification of squeezed states of light](https://arxiv.org/abs/2502.00467)
+- [Heralded hybrid CV-DV entanglement generation by quantum interference between CV state and DV delocalized photon](https://arxiv.org/abs/2101.02117)
+- [Fast binomial-code holonomic quantum computation with ultrastrong light-matter coupling](https://arxiv.org/abs/2012.06090)
+- [High-rate extended binomial codes for multiqubit encoding](https://doi.org/10.1103/hwfz-c6vy)
+- [Solving Constrained Optimization Problems Using Hybrid Qubit-Qumode Quantum Devices](https://arxiv.org/abs/2501.11735)
+- [Universal Quantum Computation with Continuous-Variable Cluster States](https://doi.org/10.1103/PhysRevLett.97.110501)
+- [Encoding a qubit in an oscillator](https://arxiv.org/abs/quant-ph/0008040)
+- [Qumode transfer between continuous and discrete variable devices](https://doi.org/10.1103/PhysRevA.109.032419)
+- [Universal unitary transfer of continuous-variable quantum states into a few qubits](https://arxiv.org/abs/2106.12272)
+
+### 9/10
+
+- [Clifford-Deformed Compass Codes](https://arxiv.org/abs/2412.03808)
+- [Tesseract: A Search-Based Decoder for Quantum Error Correction](https://arxiv.org/abs/2503.10988)
+- [Characterization of errors in a CNOT between surface code patches](https://arxiv.org/abs/2405.05337)
+- [Universal quantum computing with twist-free and temporally encoded lattice surgery](https://arxiv.org/abs/2109.02746)
+- [LATTE: A Decoding Architecture for Quantum Computing with Temporal and Spatial Scalability](https://arxiv.org/abs/2509.03954)
+- [Linear-Time Maximum Likelihood Decoding of Surface Codes over the Quantum Erasure Channel](https://doi.org/10.1103/PhysRevResearch.2.033042)
+- [Decoding algorithms for surface codes](https://arxiv.org/abs/2307.14989)
+- [Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code](https://arxiv.org/abs/2505.18592)
+- [Minimum-Weight Parity Factor Decoder for Quantum Error Correction](https://arxiv.org/abs/2508.04969)
+- [A real-time, scalable, fast and highly resource efficient decoder for a quantum computer](https://arxiv.org/abs/2309.05558)
+- [Local Clustering Decoder as a fast and adaptive hardware decoder for the surface code](https://arxiv.org/abs/2411.10343)
+- [Qimax: Efficient quantum simulation via GPU-accelerated extended stabilizer formalism](https://arxiv.org/abs/2505.03307)
+- [Stabilizer Tensor Networks: universal quantum simulator on a basis of stabilizer states](https://doi.org/10.1103/PhysRevLett.133.230601)
+- [Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation](https://arxiv.org/abs/2506.13619)
+- [Fault-tolerant complexes](https://arxiv.org/abs/2308.07844)
+
+### 9/12
+
+- [Generation of hybrid entanglement between a single-photon polarization qubit and a coherent state](https://arxiv.org/abs/1410.6823)
+
+### 9/17
+
+- [Fault-tolerant Fusion-based Quantum Computing with the Four-legged Cat Code](https://arxiv.org/abs/2508.03796)
+- [Holographic networks for (1+1)-dimensional de Sitter spacetime](https://arxiv.org/abs/2102.09223)
+- [Deterministic generation of a four-component optical cat state](https://arxiv.org/abs/1912.09880)
+
+### 9/18
+
+- [Properties of a Polarization based Phase Operator](https://arxiv.org/abs/1106.4234)
+- [Quantum teleportation of cat states with binary-outcome measurements](https://arxiv.org/abs/2412.15011)
+- [Pair-cat codes: autonomous error-correction with low-order nonlinearity](https://arxiv.org/abs/1801.05897)
+- [Generation of bipartite mechanical cat state by performing projective Bell state measurement](https://arxiv.org/abs/2404.16007)
+
+### 9/22
+
+- [Nearly deterministic Bell measurement with multiphoton entanglement for efficient quantum-information processing](https://doi.org/10.1103/PhysRevA.92.052324)
+- [Analysis for practical realization of number-state manipulation by number-sum Bell measurement with linear optics](https://arxiv.org/abs/quant-ph/0312171)
+- [Multimode rotationally symmetric bosonic codes from group-theoretic construction](https://arxiv.org/abs/2508.20647)
+- [Continuous-variable gate teleportation and bosonic-code error correction](https://doi.org/10.1103/PhysRevA.102.062411)
+- [NOON-state interference in the frequency domain](https://doi.org/10.1038/s41377-024-01439-9)
+- [Optimizing realistic continuous-variable quantum teleportation with non-Gaussian resources](https://arxiv.org/abs/2503.15909)
+- [On the Teleportation of Discrete Variable Qubits Via Continuous Variable Lossy Channels](https://arxiv.org/abs/2202.00841)
+
+### 9/25
+
+- [Noise thresholds for optical cluster-state quantum computation](https://arxiv.org/abs/quant-ph/0601066)
+- [Autonomous Quantum Error Correction in a Four-Photon Kerr Parametric Oscillator](https://arxiv.org/abs/2203.09234)
+
+### 9/30
+
+- [A Symmetry-Integrated Approach to Surface Code Decoding](https://arxiv.org/abs/2509.10164)
+- [Symplectic Lattices and GKP Codes -- Simple Randomized Constructions from Cryptographic Lattices](https://arxiv.org/abs/2509.10183)
+- [Quantum Error Correction in Adversarial Regimes](https://arxiv.org/abs/2509.08943)
+- [Quantum Arithmetic Algorithms: Implementation, Resource Estimation, and Comparison](https://arxiv.org/abs/2509.07015)
+- [Foundations of photonic quantum computation](https://arxiv.org/abs/2509.04266)
+- [The ITransverse.jl library for transverse tensor network contractions](https://arxiv.org/abs/2509.03699)
+
+### 10/3
+
+- [Clifford operations and homological codes for rotors and oscillators](https://arxiv.org/abs/2311.07679)
+
+### 10/16
+
+- [Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks](https://arxiv.org/abs/2403.10097)
+
+### 10/17
+
+- [Imperative Quantum Programming with Ownership and Borrowing in Guppy](https://arxiv.org/abs/2510.13082)
+
+### 11/28
+
+- [New class of quantum error-correcting codes for a bosonic mode](https://arxiv.org/abs/1602.00008)
+- [Methods for Producing Optical Coherent State Superpositions](https://doi.org/10.1364/JOSAB.25.000712)
 
 ### 12/3
 
@@ -256,12 +341,44 @@
 - [Tailored cluster states with high threshold under biased noise](https://arxiv.org/abs/2201.10566)
 - [Teleportation using squeezed single photons](https://arxiv.org/abs/0806.4211)
 - [All-optical cat-code quantum error correction](https://arxiv.org/abs/2108.12225)
+- [Continuous-variable quantum approximate optimization on a programmable photonic quantum processor](https://arxiv.org/abs/2206.07214)
+
+### 12/4
+
+- [Measurement-based quantum computation on weighted graph states with arbitrarily small weight](https://arxiv.org/abs/2512.01327)
+
+### 12/9
+
+- [Boosting Gaussian Boson Sampling using Optical Parametric Amplification Networks](https://arxiv.org/abs/2512.00753)
+- [Quantum Cubature Codes](https://arxiv.org/abs/2511.23316)
+- [Lattice Surgery Aware Resource Analysis for the Mapping and Scheduling of Quantum Circuits for Scalable Modular Architectures](https://arxiv.org/abs/2511.21885)
+- [FPGA-tailored algorithms for real-time decoding of quantum LDPC codes](https://arxiv.org/abs/2511.21660)
+- [Compilation Pipeline for Predicting Algorithmic Break-Even in an Early-Fault-Tolerant Surface Code Architecture](https://arxiv.org/abs/2511.20947)
+- [A Full Stack Framework for High Performance Quantum-Classical Computing](https://arxiv.org/abs/2510.20128)
 
 ### 12/11
 
 - [Tailoring fusion-based error correction for high thresholds to biased fusion failures](https://arxiv.org/abs/2301.00019)
 - [Performance of teleportation-based error correction circuits for bosonic codes with noisy measurements](https://arxiv.org/abs/2108.01009)
 - [Quantum computing with rotation-symmetric bosonic codes](https://arxiv.org/abs/1901.08071)
+- [Experimental quantum teleportation](https://doi.org/10.1038/37539)
+- [The performance of random bosonic rotation codes](https://arxiv.org/abs/2311.16089)
+
+### 12/12
+
+- [Quantum Computing in Discrete- and Continuous-Variable Architectures](https://elischolar.library.yale.edu/gsas_dissertations/1628/)
+- [A high on-off ratio beamsplitter interaction for gates on bosonically encoded qubits](https://arxiv.org/abs/2212.11929)
+- [Fusion for High-Dimensional Linear Optical Quantum Computing with Improved Success Probability](https://arxiv.org/abs/2505.16816)
+- [Measurement-based quantum repeaters](https://doi.org/10.1103/PhysRevA.85.062326)
+- [Long-distance quantum communication through any number of entanglement swapping operations](https://doi.org/10.1103/PhysRevA.90.032304)
+- [Loss-tolerant concatenated Bell-state measurement with encoded coherent-state qubits for long-range quantum communication](https://arxiv.org/abs/2102.04071)
+- [Faulty States can be used in Cat Code Error Correction](https://arxiv.org/abs/2412.15134)
+- [Error Mitigation of Fault-Tolerant Quantum Circuits with Soft Information](https://arxiv.org/abs/2512.09863)
+- [Hardware-inspired Continuous Variables Quantum Optical Neural Networks](https://arxiv.org/abs/2512.05204)
+
+### 12/15
+
+- [Hybrid Quantum-Classical Boson Sampling Algorithm for Molecular Vibrationally Resolved Electronic Spectroscopy with Duschinsky Rotation and Anharmonicity](https://doi.org/10.1021/acs.jpclett.2c01475)
 
 ### 12/17
 
