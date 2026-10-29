@@ -738,23 +738,140 @@
 - [Full-Period Optical Phase Estimation with Heisenberg Scaling Using Displaced Squeezed States and Gaussian Measurements](https://arxiv.org/abs/2607.02960)
 - [Photonic Cluster State Generation from a Quantum Dot Emitting in the Telecom C-band](https://arxiv.org/abs/2607.04896)
 - [MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined](https://arxiv.org/abs/2607.02616)
+- [Design and Benchmarking of a Quantum Photonic Chip](https://arxiv.org/abs/2607.06488)
+- [Measurement-Based Quantum Computing on a Photonic Chip](https://arxiv.org/abs/2607.07890)
+- [QSCOUT's Qubit-Boson Gate Set](https://arxiv.org/abs/2607.08560)
+- [A Sparse and Truncated State Vector Simulator for Peaked Circuits](https://arxiv.org/abs/2607.07816)
+- [Triangulene-based diradicals as a blueprint for molecular quantum platforms with optical addressability and long spin coherence times](https://arxiv.org/abs/2607.08634)
+
+### 7/14
+
+- [Three ways to share a QPU: Scheduling strategies for hybrid Quantum-HPC applications](https://arxiv.org/abs/2604.14955)
+
+### 7/21
+
+- [Alleviating the Sparse Matrix Scaling Bottleneck in Adaptive VQE via Greedy Operator Commutativity Partitioning and High-Order Taylor State Evolution](https://arxiv.org/abs/2607.15906)
+- [Non-Gaussianity in cat codes: global incompatibility and local geometric alignment with the magic resource](https://arxiv.org/abs/2607.15739)
+- [VQCSim: When Does Compile-Once Statevector Simulation Beat Generic Quantum Frameworks?](https://arxiv.org/abs/2607.11985)
+- [Security evaluation of quantum distance-bounding protocols via semidefinite programming](https://arxiv.org/abs/2607.13464)
+- [TandemQEC: Joint Provisioning of Streaming Quantum Error Correction in Tightly-Integrated Quantum-Classical Systems](https://arxiv.org/abs/2607.13351)
 
 ### 7/22
 
 - [Graph State Generation Based on Quantum Photonic Devices, Enabling Measurement-Based Quantum Computing](https://arxiv.org/abs/2607.16667)
+- [Quantum computing with rotation-symmetric bosonic codes](https://arxiv.org/abs/1901.08071)
+- [Assessing the Elephant in the Room in Scheduling for Current Hybrid HPC-QC Clusters](https://arxiv.org/abs/2504.10520)
+- [Hybrid Method of Efficient Simulation of Physics Applications for a Quantum Computer](https://arxiv.org/abs/2602.09020)
+- [quchip: A Differentiable Toolkit for Modeling Quantum Devices](https://arxiv.org/abs/2607.17081)
+- [Surface-Code Hardware Hamiltonian](https://arxiv.org/abs/2507.06201)
+- [Efficiently stable presentations from error-correcting codes](https://arxiv.org/abs/2311.04681)
+- [QuantiSpect: A Structure-Aware Lightweight 3D CNN Pre-Decoder for Scalable Surface Code Quantum Error Correction](https://arxiv.org/abs/2607.18204)
+- [A Hybrid Classical-Quantum Approach for Multi-Constrained Location Optimization Problem](https://arxiv.org/abs/2607.16277)
+
+### 7/23
+
+- [Enhanced Neural Quantum State via Annealed Gradient Descent](https://arxiv.org/abs/2607.18865)
+- [A general estimation framework for continuous-variable systems](https://arxiv.org/abs/2607.19287)
+
+### 7/27
+
+- [Stroboscopic Stabilization of Cat Qubits](https://arxiv.org/abs/2607.08363)
+
+### 7/28
+
+- [Experimental implementation of continuous-variable QAOA on a quad-rail lattice cluster state](https://arxiv.org/abs/2606.10432)
+- [An innovative platform to improve the performance of exact string matching algorithms](https://arxiv.org/abs/1002.2222)
+- [Entanglement swapping in high dimensions with only linear optics](https://doi.org/10.1364/OE.592481)
+- [Logical accreditation: a framework for efficient certification of fault-tolerant computations](https://arxiv.org/abs/2508.05523)
+- [Automated Flag-based Fault-Tolerant State Preparation using Integer Linear Programming](https://arxiv.org/abs/2607.22498)
+
+### 7/29
+
+- [Systematic Experiment Tracking in Quantum Software: A Case Study of Reservoir Computing with Error Mitigation](https://arxiv.org/abs/2607.24264)
+- [Bias-preserving cat-cat CNOT gate via vacuum-conditional beam-splitter](https://arxiv.org/abs/2607.22852)
 
 ### 7/30
 
 - [Proposal for an Optimal Job Allocation Method for Data-intensive Applications based on Multiple Costs Balancing in a Hybrid Cloud Environment](https://www.is.ocha.ac.jp/~oguchi_lab/Publications/paper2012/ACM_ICUIMC2013.pdf)
+- [QCOEM: Quantum Cloud Orchestration with Evolutionary Multi-Objective Optimization](https://arxiv.org/abs/2607.25358)
 
 ### 8/20
 
 - [Classical simulation of Gaussian quantum circuits with non-Gaussian input states](https://arxiv.org/abs/2010.14363)
+- [Enabling Hybrid HPCQC Workflows with a Heterogeneous Software Stack](https://arxiv.org/abs/2608.14827)
+- [SPLIT-Q: A Scalable Sequential Quantum Computing Framework for Coherent Controlled Islanding](https://arxiv.org/abs/2608.12711)
+- [Efficient Graph State Generation in Linear Optics](https://arxiv.org/abs/2306.15148)
+- [Measurement-induced generation of Schrödinger cat states in cavity QED](https://arxiv.org/abs/2608.04578)
+- [Heralding probability optimization for nonclassical light generated by photon counting measurements on multimode Gaussian states](https://arxiv.org/abs/2604.25910)
+
+### 8/21
+
+- [Quantum Compiling with Reinforcement Learning on a Superconducting Processor](https://arxiv.org/abs/2406.12195)
+
+### 8/23
+
+- [An ultra-bright, highly-scalable, squeezed light source for hybrid quantum photonics](https://arxiv.org/abs/2608.18950)
+
+### 8/28
+
+- [Implementing quantum algorithms on temporal photonic cluster states](https://arxiv.org/abs/1805.02645)
+- [Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer](https://arxiv.org/abs/2010.02905)
+
+### 9/21
+
+- [Concatenating Binomial Codes with the Planar Code](https://arxiv.org/abs/2312.14390)
+- [Quantum computation with optical coherent states](https://arxiv.org/abs/quant-ph/0306004)
+- [Efficient Quantum Computation using Coherent States](https://arxiv.org/abs/quant-ph/0109077)
+- [Purification of entangled coherent states](https://arxiv.org/abs/quant-ph/0111015)
+- [Quantum information processing for a coherent superposition state via a mixed entangled coherent channel](https://arxiv.org/abs/quant-ph/0104090)
+- [Highly photon loss tolerant quantum computing using hybrid qubits](https://arxiv.org/abs/2011.04209)
+- [Resource-efficient and fault-tolerant topological quantum computation with hybrid entanglement of light](https://arxiv.org/abs/1906.04864)
+- [Near-deterministic quantum teleportation and resource-efficient quantum computation using linear optics and hybrid qubits](https://arxiv.org/abs/1112.0825)
+
+### 9/26
+
+- [Practical Error Suppression and Mitigation for Reliable Quantum Computing](https://arxiv.org/abs/2608.20453)
+- [Granthi: Higher-Order Quantum Programming via Unitary Wiring](https://arxiv.org/abs/2608.20443)
+
+### 9/29
+
+- [Strawberry Fields: A Software Platform for Photonic Quantum Computing](https://arxiv.org/abs/1804.03159)
+
+### 10/1
+
+- [A heterogeneously integrated coupled-cavity frequency beam splitter](https://arxiv.org/abs/2608.26028)
+- [Graphix: A software framework for Measurement-Based Quantum Computation](https://arxiv.org/abs/2608.24781)
+- [A full-stack analog optical quantum computing platform with one hundred inputs](https://arxiv.org/abs/2506.16147)
+
+### 10/5
+
+- [Performance of Rotation-Symmetric Bosonic Codes in a Quantum Repeater Network](https://arxiv.org/abs/2308.15815)
+
+### 10/6
+
+- [Fault-tolerant quantum computation by hybrid qubits with bosonic cat-code and single photons](https://arxiv.org/abs/2401.00450)
+- [Optical hybrid approaches to quantum information](https://arxiv.org/abs/1002.4788)
+
+### 10/7
+
+- [An Optimal Design for Universal Multiport Interferometers](https://arxiv.org/abs/1603.08788)
+- [Mitigating linear optics imperfections via port allocation and compilation](https://arxiv.org/abs/2103.03183)
+- [Integrated Photonic Quantum Technologies](https://doi.org/10.1038/s41566-019-0532-1)
+- [Active volume: An architecture for efficient fault-tolerant quantum computers with limited non-local connections](https://arxiv.org/abs/2211.15465)
 
 ### 10/8
 
 - [Ultra-Large-Scale Deterministic Entanglement Containing 2×20 400 Optical Modes Based on Time-Delayed Quantum Interferometer](https://doi.org/10.1103/PhysRevLett.130.060801)
 - [Crossing the 12,000-atom barrier with heterogeneous quantum-classical supercomputing: quantum chemistry of protein-ligand complexes](https://arxiv.org/abs/2605.01138)
+- [In situ characterization of a photon-subtraction device via heralding counts and homodyne detection](https://arxiv.org/abs/2609.10100)
+- [Loss-correcting fault-tolerant quantum computing architecture for neutral atoms](https://arxiv.org/abs/2609.10079)
+- [A hybrid quantum-classical neural network for learning to route](https://arxiv.org/abs/2609.00489)
+- [Reducing quantum and classical resources for quantum-centric supercomputing workloads on near-term hardware](https://arxiv.org/abs/2609.05957)
+- [Hybrid Quantum and Classical Workload Management with Graph-based Scheduling](https://arxiv.org/abs/2607.09151)
+- [Fooling the Decoder: An Adversarial Attack on Quantum Error Correction](https://arxiv.org/abs/2504.19651)
+- [A Dynamic Intermediate Representation for Hybrid Quantum-Classical Programs](https://arxiv.org/abs/2609.01037)
+- [Emerging Personas and Tools for Hybrid Quantum-HPC Systems](https://arxiv.org/abs/2609.01299)
+- [Efficient optical cat state generation using squeezed few-photon superposition states](https://arxiv.org/abs/2412.14798)
 
 ### 10/29
 
