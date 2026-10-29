@@ -92,3 +92,5 @@
 - [HTM: A Hybrid Classical-Quantum Computation Model](https://arxiv.org/abs/2610.37249)
 - [Quantum circuit simulation with high-order optical tensor processing](https://arxiv.org/abs/2610.36172)
 - [QTUNER: A Feature-Guided Adaptive Framework for Quantum-Compiler Optimization Pass Tuning](https://arxiv.org/abs/2607.04586)
+- [Extensible universal photonic quantum computing with nonlinearity](https://arxiv.org/abs/2602.06544)
+- [Programmable Nonlinear Quantum Photonic Circuits](https://arxiv.org/abs/2405.17941)
