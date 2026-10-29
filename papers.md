@@ -508,10 +508,122 @@
 - [Implementing quantum algorithms on temporal photonic cluster states](https://arxiv.org/abs/1805.02645)
 - [Gaussian Boson Sampling for perfect matchings of arbitrary graphs](https://arxiv.org/abs/1712.06729)
 - [Photon-Number-Resolving Single-Photon Detector with a System Detection Efficiency of 98% and Photon-Number Resolution of 32](https://doi.org/10.1021/acsphotonics.5c00508)
+- [Resources for bosonic quantum computational advantage](https://arxiv.org/abs/2207.11781)
+- [Quantum algorithms: A survey of applications and end-to-end complexities](https://arxiv.org/abs/2310.03011)
+- [Matrix decompositions in Quantum Optics: Takagi/Autonne, Bloch-Messiah/Euler, Iwasawa, and Williamson](https://arxiv.org/abs/2403.04596)
+
+### 3/25
+
+- [A compiler for universal photonic quantum computers](https://arxiv.org/abs/2210.09251)
+- [All-optical quantum memory using bosonic quantum error correction codes](https://arxiv.org/abs/2603.21721)
+
+### 3/26
+
+- [Exploiting Translational Symmetry for Quantum Computing with Squeezed Cat Qubits](https://arxiv.org/abs/2510.00497)
+
+### 3/27
+
+- [The Helstrom measurement: A nondestructive implementation](https://arxiv.org/abs/1710.09343)
+- [The Helstrom Bound](https://arxiv.org/abs/1603.04774)
+
+### 3/31
+
+- [Performance analysis of GKP error correction](https://arxiv.org/abs/2505.14775)
+- [High-threshold fault-tolerant quantum computation with analog quantum error correction](https://arxiv.org/abs/1712.00294)
+- [Quantum error correction with higher Gottesman-Kitaev-Preskill codes: minimal measurements and linear optics](https://arxiv.org/abs/2110.05315)
+- [Error correction of a logical grid state qubit by dissipative pumping](https://arxiv.org/abs/2010.09681)
+
+### 4/1
+
+- [Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices](https://arxiv.org/abs/2412.08611)
+- [Comparison of schemes for highly loss tolerant photonic fusion based quantum computing](https://arxiv.org/abs/2506.11975)
+- [Fusion-based quantum computation](https://arxiv.org/abs/2101.09310)
+
+### 4/3
+
+- [Data-driven adaptive quantum error mitigation for probability distribution](https://arxiv.org/abs/2511.13231)
+
+### 4/28
+
+- [Quantum Error Correction with the Gottesman-Kitaev-Preskill Code](https://arxiv.org/abs/2106.12989)
+- [Realistic Gottesman-Kitaev-Preskill stabilizer states enable universal quantum computation](https://arxiv.org/abs/2511.03874)
+- [Quantum nondemolition measurements with optical parametric amplifiers for ultrafast universal quantum information processing](https://doi.org/10.1103/PRXQuantum.4.010333)
+- [Engineering Non-Gaussian Bosonic Gates through Quantum Signal Processing](https://arxiv.org/abs/2508.20261)
+- [QND measurements of photon number in monolithic microcavities](https://arxiv.org/abs/2111.14700)
+
+### 5/1
+
+- [Time-Domain Multiplexed 2-Dimensional Cluster State: Universal Quantum Computing Platform](https://arxiv.org/abs/1903.03918)
+- [Generation of large-scale continuous-variable cluster states multiplexed both in time and frequency domains](https://arxiv.org/abs/2210.10261)
+- [A complete continuous-variable quantum computation architecture based on the 2D spatiotemporal cluster state](https://arxiv.org/abs/2312.13877)
+- [Ultra-Large-Scale Continuous-Variable Cluster States Multiplexed in the Time Domain](https://arxiv.org/abs/1306.3366)
+
+### 5/12
+
+- [Qonductor: A Cloud Orchestrator for Quantum Computing](https://doi.org/10.1145/3712285.3759785)
+- [Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management](https://arxiv.org/abs/2412.18519)
+- [Quantum resources in resource management systems](https://arxiv.org/abs/2506.10052)
+- [Hybrid Quantum-HPC Middleware Systems for Adaptive Resource, Workload and Task Management](https://arxiv.org/abs/2604.03445)
+- [Quantum-HPC Software Stacks and the openQSE Reference Architecture: A Survey](https://arxiv.org/abs/2604.20912)
+- [Circuit-level fault tolerance of cat codes](https://arxiv.org/abs/2406.04157)
+
+### 5/14
+
+- [ADaPT: Adaptive-window Decoding for Practical fault-Tolerance](https://arxiv.org/abs/2605.01149)
+- [Adaptive Aborting Schemes for Quantum Error Correction Decoding](https://arxiv.org/abs/2602.16929)
+- [Adaptive Quantum Computers: decoding and state preparation](https://arxiv.org/abs/2509.08718)
+- [Triage: An Adaptive Parallel Window Decoding Scheduler for Real-time Fault-Tolerant Quantum Computation](https://arxiv.org/abs/2605.04459)
+- [Syndrome resampling enhances quantum error correction thresholds](https://arxiv.org/abs/2605.06101)
+- [Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays](https://arxiv.org/abs/2604.16209)
+
+### 5/22
+
+- [Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code](https://arxiv.org/abs/2405.19495)
 
 ### 5/26
 
 - [Closed form logical error rate approximations for surface codes](https://arxiv.org/abs/2605.03054)
+- [Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning](https://arxiv.org/abs/2405.13196)
+
+### 5/27
+
+- [Recent Advances in Quantum Architecture Search](https://arxiv.org/abs/2604.26289)
+- [HyPulse: A Pulse Synthesis Framework for Hybrid Qubit-Oscillator Gates on Trapped-Ion Platform](https://arxiv.org/abs/2604.26804)
+- [Geometric-Phase (Pancharatnam-Berry) Correction for Time-Bin Photonic Qudits: A Calibration and Feed-Forward Algorithm](https://arxiv.org/abs/2604.27009)
+- [Sub-Cubic Quantum Gate Synthesis via Stochastic Commutator Decomposition](https://arxiv.org/abs/2605.02051)
+
+### 6/5
+
+- [Text Finder Application for Android](https://arxiv.org/abs/2311.04579)
+
+### 6/8
+
+- [OpenQudit: Extensible and Accelerated Numerical Quantum Compilation via a JIT-Compiled DSL](https://arxiv.org/abs/2511.16585)
+- [Minimizing Photonic Cluster State Depth in Measurement-Based Quantum Computing](https://arxiv.org/abs/2312.10865)
+- [Hardware-aware Compilation for Chip-to-Chip Coupler-Connected Modular Quantum Systems](https://arxiv.org/abs/2505.09036)
+- [Qsyn: A Developer-Friendly Quantum Circuit Synthesis Framework for NISQ Era and Beyond](https://arxiv.org/abs/2405.07197)
+- [Type-Based Verification of Connectivity Constraints in Lattice Surgery](https://arxiv.org/abs/2409.00529)
+- [TopoLS: Lattice Surgery Compilation via Topological Program Transformations](https://arxiv.org/abs/2601.23109)
+- [TeleSABRE: Layout Synthesis in Multi-Core Quantum Systems with Teleport Interconnect](https://arxiv.org/abs/2505.08928)
+- [Pattern Tree: Enhancing Efficiency in Quantum Circuit Optimization Based on Pattern-matching](https://arxiv.org/abs/2412.07803)
+- [MonteQ: A Monte Carlo Tree Search Based Quantum Circuit Synthesis Framework](https://arxiv.org/abs/2604.19029)
+- [Dynamic quantum circuit compilation](https://arxiv.org/abs/2310.11021)
+- [SCIM MILQ: An HPC Quantum Scheduler](https://arxiv.org/abs/2404.03512)
+- [DYNAMO: Dynamic Neutral Atom Multi-programming Optimizer Towards Quantum Operating Systems](https://arxiv.org/abs/2507.04874)
+- [Quantum Circuit Transformations with a Multi-Level Intermediate Representation Compiler](https://arxiv.org/abs/2112.10677)
+- [Ultra-Large-Scale Compilation and Manipulation of Quantum Circuits with Pandora](https://arxiv.org/abs/2508.05608)
+- [QuCLEAR: Clifford Extraction and Absorption for Quantum Circuit Optimization](https://doi.org/10.1109/HPCA61900.2025.00023)
+- [Automated Circuit Depth Reduction of Quantum Subroutines via Compilation](https://arxiv.org/abs/2605.04748)
+- [Quantum State Preparation Circuit Optimization Exploiting Don't Cares](https://arxiv.org/abs/2409.01418)
+- [Accelerating Transpilation in Quantum Machine Learning with Haiqu's Rivet-transpiler](https://arxiv.org/abs/2508.21342)
+- [Inverse-Transpilation: Reverse-Engineering Quantum Compiler Optimization Passes from Circuit Snapshots](https://arxiv.org/abs/2504.19113)
+- [Manjushri: A Tool for Equivalence Checking of Quantum Circuits](https://arxiv.org/abs/2601.22372)
+- [Type-based Qubit Allocation for a First-Order Quantum Programming Language](https://arxiv.org/abs/2306.01856)
+- [The MQT Compiler Collection: A Blueprint for a Future-Proof Quantum-Classical Compilation Framework](https://arxiv.org/abs/2604.08674)
+- [LLM-Guided Evolutionary Search for Algebraic T-Count Optimization](https://arxiv.org/abs/2603.29894)
+- [Q-Bridge: Code Translation for Quantum Machine Learning via LLMs](https://arxiv.org/abs/2603.27836)
+- [An LLVM-based C++ Compiler Toolchain for Variational Hybrid Quantum-Classical Algorithms and Quantum Accelerators](https://arxiv.org/abs/2202.11142)
+- [QLLVM: A Scalable Quantum-Classical Co-Compilation Framework based on LLVM](https://arxiv.org/abs/2604.15094)
 
 ### 6/11
 
