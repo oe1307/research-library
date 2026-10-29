@@ -624,10 +624,120 @@
 - [Q-Bridge: Code Translation for Quantum Machine Learning via LLMs](https://arxiv.org/abs/2603.27836)
 - [An LLVM-based C++ Compiler Toolchain for Variational Hybrid Quantum-Classical Algorithms and Quantum Accelerators](https://arxiv.org/abs/2202.11142)
 - [QLLVM: A Scalable Quantum-Classical Co-Compilation Framework based on LLVM](https://arxiv.org/abs/2604.15094)
+- [Investigating Retargetability Claims for Quantum Compilers](https://arxiv.org/abs/2601.16779)
+- [Optimization at the Interface of Unitary and Non-unitary Quantum Operations in PCOAST](https://arxiv.org/abs/2305.09843)
+- [PCOAST: A Pauli-based Quantum Circuit Optimization Framework](https://arxiv.org/abs/2305.10966)
+- [Qompiler: A Traceable Quantum Circuit Synthesizer for Arbitrary Hamiltonians](https://arxiv.org/abs/2509.16272)
+- [Application Scale Quantum Circuit Compilation with Controlled Error](https://arxiv.org/abs/2510.18000)
+- [Partial Equivalence Checking of Quantum Circuits](https://arxiv.org/abs/2208.07564)
+
+### 6/9
+
+- [Quantum Circuit Transformation Based on Tabu Search](https://arxiv.org/abs/2104.05214)
+- [Scaling Qubit Mapping and Routing With Position Graph Abstraction and Memoization](https://arxiv.org/abs/2605.09237)
+- [Reducing the Compilation Time of Quantum Circuits Using Pre-Compilation on the Gate Level](https://arxiv.org/abs/2305.04941)
+- [LightSABRE: A Lightweight and Enhanced SABRE Algorithm](https://arxiv.org/abs/2409.08368)
 
 ### 6/11
 
 - [Quantum geometric tensor determines the pure-state i.i.d. conversion rate in the resource theory of asymmetry for any compact Lie group](https://arxiv.org/abs/2411.04766)
+- [All-optical cat-code quantum error correction](https://arxiv.org/abs/2108.12225)
+
+### 6/15
+
+- [Artificial Intelligence and Machine Learning for Quantum Technologies](https://arxiv.org/abs/2208.03836)
+
+### 6/16
+
+- [Exponential-to-polynomial scaling of measurement overhead in circuit knitting via quantum tomography](https://arxiv.org/abs/2512.19623)
+- [Quantum Error Mitigation Simulates General Non-Hermitian Dynamics](https://arxiv.org/abs/2602.21879)
+- [Error-Mitigated Hamiltonian Simulation: Complexity Analysis and Optimization for Near-Term and Early-Fault-Tolerant Quantum Computers](https://arxiv.org/abs/2603.11527)
+- [QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control](https://arxiv.org/abs/2606.13010)
+
+### 6/17
+
+- [Performance of rotation-symmetric bosonic codes in the presence of random telegraph noise](https://arxiv.org/abs/2505.08670)
+
+### 6/18
+
+- [The Grand Challenge of Quantum Applications](https://arxiv.org/abs/2511.09124)
+
+### 6/23
+
+- [Bosonic coding: introduction and use cases](https://arxiv.org/abs/2211.05714)
+- [Letting the tiger out of its cage: bosonic coding without concatenation](https://arxiv.org/abs/2411.09668)
+- [Quantum Error Correction with Superpositions of Squeezed Fock States](https://arxiv.org/abs/2510.04209)
+- [Universal quantum computation with optical four-component cat qubits](https://arxiv.org/abs/2109.12278)
+- [All-optical Quantum State Engineering for Rotation-symmetric Bosonic States](https://arxiv.org/abs/2105.11035)
+- [Analog information decoding of bosonic quantum LDPC codes](https://arxiv.org/abs/2311.01328)
+- [Quantum error correction using squeezed Schrödinger cat states](https://arxiv.org/abs/2201.02570)
+- [Robust Weighted Sum-Rate Maximization for Transmissive RIS Transmitter Enabled RSMA Networks](https://arxiv.org/abs/2307.12307)
+- [Linear Optical Bell State Measurement for Rotation-Symmetric Cat Codes](https://arxiv.org/abs/2606.22832)
+
+### 6/24
+
+- [Compactifying linear optical unitaries using multiport beamsplitters](https://arxiv.org/abs/2505.11371)
+- [Generalized Kerr-Cat Qubit Codes](https://arxiv.org/abs/2606.14901)
+- [Bosonic quantum computing with near-term devices and beyond](https://arxiv.org/abs/2512.15063)
+- [Explicit error-correction scheme and code distance for bosonic codes with rotational symmetry](https://arxiv.org/abs/2311.13670)
+- [Modeling Logical Gates and Read-Out of Superconducting Gottesman-Kitaev-Preskill Qubits](https://arxiv.org/abs/2403.02396)
+- [Tunable coherent microwave beam splitter and combiner at the single-photon level](https://arxiv.org/abs/2503.20353)
+- [Time-delayed quantum feedback control](https://arxiv.org/abs/1502.06959)
+- [Linear-optical quantum computation with arbitrary error-correcting codes](https://arxiv.org/abs/2408.04126)
+- [Quantum lattice models that preserve continuous translation symmetry](https://arxiv.org/abs/2303.07649)
+- [A Three-Layer Architecture for Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2606.22418)
+- [Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation](https://arxiv.org/abs/2606.21192)
+
+### 6/25
+
+- [A phase-space approach for performing continuous-variable quantum teleportation with a non-Gaussian resource](https://arxiv.org/abs/2606.25471)
+
+### 6/29
+
+- [Tracking Quantum Dynamics in an Optical Cavity for Recovering Purity and Squeezing via Quantum State Smoothing](https://arxiv.org/abs/2509.04754)
+
+### 6/30
+
+- [Signs Beat Floats: Low-Rank Double-Binary Adaptation for On-Device Fine-Tuning](https://arxiv.org/abs/2605.24058)
+- [Projective squeezing for translation symmetric bosonic codes](https://arxiv.org/abs/2403.14218)
+- [Picosecond Schrödinger cat states for ultrafast optical quantum processing](https://arxiv.org/abs/2606.24002)
+- [Auxiliary Schmidt Rank as a Resource for Photonic Bell Measurements](https://arxiv.org/abs/2606.24591)
+- [To catch and reverse a quantum jump mid-flight](https://arxiv.org/abs/1803.00545)
+- [Experimental implementation of a Raman-assisted six-quanta process](https://arxiv.org/abs/1811.06589)
+- [Systematic Construction of Time-Dependent Hamiltonians for Microwave-Driven Josephson Circuits](https://arxiv.org/abs/2512.20743)
+- [Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates](https://arxiv.org/abs/2606.11010)
+- [Approximate quantum error correction theory of non-isometric codes](https://arxiv.org/abs/2606.13559)
+- [Tessellation codes: encoded quantum gates by geometric rotation](https://arxiv.org/abs/2410.18713)
+- [Interleaving: Modular architectures for fault-tolerant photonic quantum computing](https://arxiv.org/abs/2103.08612)
+- [Fault-tolerant logical state construction based on cavity-QED network](https://arxiv.org/abs/2503.11500)
+- [Dynamical instability in the S=1 Bose-Hubbard model](https://arxiv.org/abs/1504.07847)
+- [Density Modulations Associated with the Dynamical Instability in the Bose-Hubbard Model](https://arxiv.org/abs/1410.7869)
+- [Quantum error mitigation for rotation symmetric bosonic codes with symmetry expansion](https://arxiv.org/abs/2211.06164)
+- [The i.i.d. State Convertibility in the Resource Theory of Asymmetry for Finite Groups](https://arxiv.org/abs/2312.15758)
+- [Non-Markovianity in Quantum Information Processing: Interplay with Quantum Error Mitigation](https://arxiv.org/abs/2510.20224)
+- [Tradeoff Relation between Information and Disturbance in Quantum Measurement](https://arxiv.org/abs/1505.01320)
+- [Out-of-time-order fluctuation-dissipation theorem](https://arxiv.org/abs/1612.08781)
+- [Bound on the exponential growth rate of out-of-time-ordered correlators](https://arxiv.org/abs/1706.09160)
+- [Systematic construction of digital autonomous quantum error correction for state preparation and error suppression via conditional Gaussian operations](https://arxiv.org/abs/2603.21598)
+- [Programmable generation of flying cat-qubits](https://arxiv.org/abs/2606.30075)
+- [Industry-ready spin-photon interfaces for hybrid photonic quantum computing](https://arxiv.org/abs/2606.27787)
+
+### 7/2
+
+- [Programmable optical parametric amplifier synthesizer for cubic phase states and amplified Schrodinger cat states](https://arxiv.org/abs/2606.31405)
+- [Automatic quantum function parallelization and memory management in Qrisp](https://arxiv.org/abs/2606.31837)
+
+### 7/3
+
+- [Quantum-advantage resource of a two-mode Gaussian state: Analytical theory of convex optimization and a Galois no-go for the closed-form solution](https://arxiv.org/abs/2607.00266)
+- [Twisted Gaussian Schell States in Quantum Optics: Twist-Assisted Nonclassicality and Entanglement](https://arxiv.org/abs/2607.00837)
+- [Overcoming the Speed-Fidelity Trade-off in Fast CZ Gates via Cyclic Control](https://arxiv.org/abs/2607.00660)
+
+### 7/13
+
+- [Full-Period Optical Phase Estimation with Heisenberg Scaling Using Displaced Squeezed States and Gaussian Measurements](https://arxiv.org/abs/2607.02960)
+- [Photonic Cluster State Generation from a Quantum Dot Emitting in the Telecom C-band](https://arxiv.org/abs/2607.04896)
+- [MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined](https://arxiv.org/abs/2607.02616)
 
 ### 7/22
 
