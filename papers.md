@@ -178,7 +178,7 @@
 - [Generation of squeezed Fock states by measurement](https://doi.org/10.1103/PhysRevA.109.052428)
 - [Measurement-assisted non-Gaussian gate for Schrödinger cat states preparation: Fock resource state versus cubic phase state](https://doi.org/10.1140/epjd/s10053-023-00796-1)
 - [Heralded single-photon source based on superpositions of squeezed states](https://arxiv.org/abs/2402.17118)
-- [Breeding the optical Schrodinger's cat state](https://arxiv.org/abs/1609.08425)
+- [Breeding the optical Schroedinger's cat state](https://arxiv.org/abs/1609.08425)
 - [Encoded-Fusion-Based Quantum Computation for High Thresholds with Linear Optics](https://arxiv.org/abs/2408.01041)
 - [Switch networks for photonic fusion-based quantum computing](https://arxiv.org/abs/2109.13760)
 - [Engineering Bosonic Codes with Quantum Lattice Gates](https://doi.org/10.1038/s42005-025-02354-0)
@@ -294,10 +294,6 @@
 ### 6/11
 
 - [Quantum geometric tensor determines the pure-state i.i.d. conversion rate in the resource theory of asymmetry for any compact Lie group](https://arxiv.org/abs/2411.04766)
-
-### 6/23
-
-- [Linear optical Bell state measurement for rotation-symmetric cat codes](https://arxiv.org/abs/2606.22832)
 
 ### 7/22
 
