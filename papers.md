@@ -974,3 +974,13 @@
 - [QTUNER: A Feature-Guided Adaptive Framework for Quantum-Compiler Optimization Pass Tuning](https://arxiv.org/abs/2607.04586)
 - [Extensible universal photonic quantum computing with nonlinearity](https://arxiv.org/abs/2602.06544)
 - [Programmable Nonlinear Quantum Photonic Circuits](https://arxiv.org/abs/2405.17941)
+
+### 11/5
+
+- [Performance analysis of cat and GKP breeding protocols with squeezed single-photon input](https://arxiv.org/abs/2611.02547)
+- [Time-Domain Multiplexing for Resource-Efficient Heralded GKP State Preparation](https://arxiv.org/abs/2610.41341)
+- [Photon-loss tolerance of the surface-GKP code with anti-photon-loss decoding](https://arxiv.org/abs/2611.00694)
+- [Runtime Compilation for Quantum Circuits with PQF-Enabled Rz Synthesis](https://arxiv.org/abs/2611.04075)
+- [Qubrio: High-Performance Quantum Compilation via Multi-Agent LLM Collaboration](https://arxiv.org/abs/2611.02269)
+- [Interpretable Quantum Photonic Generative Models](https://arxiv.org/abs/2611.05354)
+
