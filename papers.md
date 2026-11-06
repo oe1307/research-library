@@ -984,3 +984,6 @@
 - [Qubrio: High-Performance Quantum Compilation via Multi-Agent LLM Collaboration](https://arxiv.org/abs/2611.02269)
 - [Interpretable Quantum Photonic Generative Models](https://arxiv.org/abs/2611.05354)
 
+### 11/6
+
+- [Finite-temperature transition-window weights on a fault-tolerant quantum computer: duplex filtering on a thermal purification](https://arxiv.org/abs/2611.06809)
