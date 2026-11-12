@@ -987,3 +987,7 @@
 ### 11/6
 
 - [Finite-temperature transition-window weights on a fault-tolerant quantum computer: duplex filtering on a thermal purification](https://arxiv.org/abs/2611.06809)
+
+## 11/12
+
+- [A Hardware-Trained Generative Quantum Eigensolver for Sample-Based Quantum Diagonalization of Organotin Hydroxides up to 70 Qubits](https://arxiv.org/abs/2611.13755)
