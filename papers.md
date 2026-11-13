@@ -991,3 +991,7 @@
 ## 11/12
 
 - [A Hardware-Trained Generative Quantum Eigensolver for Sample-Based Quantum Diagonalization of Organotin Hydroxides up to 70 Qubits](https://arxiv.org/abs/2611.13755)
+
+## 11/13
+
+- [Quantum gate optimization in hybrid neural networks for deepfake audio detection](https://www.nature.com/articles/s41598-026-79425-x)
