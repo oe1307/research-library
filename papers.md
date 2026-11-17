@@ -995,3 +995,10 @@
 ## 11/13
 
 - [Quantum gate optimization in hybrid neural networks for deepfake audio detection](https://www.nature.com/articles/s41598-026-79425-x)
+
+## 11/17
+
+- [Linear-optical generation of approximate higher-component cat states](https://arxiv.org/abs/2611.18065)
+- [Agentic AI for Discovering Fault-Tolerant Quantum Circuits](https://arxiv.org/abs/2611.18504)
+- [Encoding an Oscillator into Many Oscillators](https://arxiv.org/abs/1903.12615)
+
